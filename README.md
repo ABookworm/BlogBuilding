@@ -1,2 +1,2 @@
-# BlogsBuilding
-To build a blogs by myself.
+# Creating blogs
+My Blogs created by me.
